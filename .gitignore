@@ -15,3 +15,5 @@
 # vendor/
 
 out/
+
+node_modules/
